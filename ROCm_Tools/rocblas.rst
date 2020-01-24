@@ -30,7 +30,7 @@ If you use a distro other than Ubuntu, or would like more control over the build
 
 **Functions supported**
 
-A list of exported functions from rocblas can be found on the wiki
+A list of exported functions from rocblas can be found on the wiki.
 
 rocBLAS interface examples
 ****************************
@@ -53,7 +53,7 @@ GEMV API
 
 Batched and strided GEMM API
 ****************************
-rocBLAS GEMM can process matrices in batches with regular strides. There are several permutations of these API's, the following is an example that takes everything
+rocBLAS GEMM can process matrices in batches with regular strides. There are several permutations of these API's, the following is an example that takes everything.
 
 ::
 
